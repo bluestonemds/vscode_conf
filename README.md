@@ -1,6 +1,19 @@
 # vscode_conf
 my settings of vscode for php and react
 
+## installed extensions
+- Babel ES6/ES7
+- ESLint
+- HTML Snippets
+- JavaScript Standard Style
+- One Dark Pro
+- PHP Debug
+- PHP Extension Pack
+- PHP IntelliSense
+- React Standard Style Code
+- Sync-Rsync
+- Vim
+
 ## user settings
 ```
 {
