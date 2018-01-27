@@ -7,6 +7,8 @@ my settings of vscode for php and react
     "workbench.colorTheme": "One Dark Pro",
     "editor.fontSize": 16,
 }
+```
+
 
 ## workspace settings
 ```
@@ -21,3 +23,4 @@ my settings of vscode for php and react
     "sync-rsync.remote": "ubuntu@xxx:/var/www/html/jsmmaterial/",
     "sync-rsync.flags": "rltDvz",
 }
+```
